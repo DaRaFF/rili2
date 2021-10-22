@@ -1,5 +1,5 @@
 {
-  "name": "rili2",
+  "name": "rili",
   "version": "0.0.0-development",
   "description": "",
   "main": "api.js",
@@ -30,8 +30,5 @@
   },
   "publishConfig": {
     "private": "true"
-  },
-  "release": {
-    "extends": "@livingdocs/semantic-release-presets/github-verify"
   }
 }
