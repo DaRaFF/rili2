@@ -1,6 +1,6 @@
 # Scope
 
-Rili is a tool to support a release manager with useful information.
+Rili2 is a tool to support a release manager with useful information.
 At the moment it's under heavy construction.
 
 
@@ -9,7 +9,7 @@ At the moment it's under heavy construction.
 ### Get the latest tag of a branch
 
 ```bash
-// add a json config file to ~/.config/configstore/rili.json
+// add a json config file to ~/.config/configstore/rili2.json
 {
   "versions": [
     { "header": "UPSTREAM master" },
@@ -22,6 +22,6 @@ At the moment it's under heavy construction.
 }
 
 // get the latest tag of a branch from the config
-npx github:daraff/rili --token=<your-github-token>
+npx github:daraff/rili2 --token=<your-github-token>
 node cli-get-version-from-config.js --token=<your-github-token>
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "rili",
+  "name": "rili2",
   "version": "0.0.0-development",
   "description": "",
   "main": "api.js",
@@ -23,7 +23,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/DaRaFF/rili.git"
+    "url": "https://github.com/DaRaFF/rili2.git"
   },
   "devDependencies": {
     "tap": "^14.10.5"
